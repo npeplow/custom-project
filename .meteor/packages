@@ -32,8 +32,6 @@ telescope:singleday
 telescope:subscribe-to-posts
 telescope:tagline-banner
 telescope:tags
-telescope:theme-base
-telescope:theme-hubble
 telescope:update-prompt
 
 ############ Your Custom Packages ############
