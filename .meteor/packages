@@ -10,6 +10,7 @@ telescope:core
 ############ Telescope Packages (Optional) ############
 
 telescope:migrations
+twbs:bootstrap
 telescope:api
 telescope:daily
 telescope:datetimepicker
